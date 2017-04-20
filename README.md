@@ -9,7 +9,7 @@
 
 'aliases' => [
     // ...
-    'Luckfbconnect' => Ianfunghk\Luckfbconnect\LuckfbconnectFacade::class,
+    'Luckfbconnect' => Ianfunghk\Luckfbconnect\Luckfbconnect::class,
 ],
 
 ## License
