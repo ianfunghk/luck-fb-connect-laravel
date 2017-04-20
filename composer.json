@@ -1,0 +1,26 @@
+{
+    "name": "ianfunghk/luckfbconnect",
+    "description": "Facebook Connect for Laravel",
+    "keywords": [
+        "facebook",
+        "laravel"
+    ],
+    "homepage": "https://github.com/ianfunghk/luck-fb-connect-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Fung",
+            "email": "ianfunghk@459734.no-reply.drupal.org",
+            "homepage": "http://ianfunghk.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ianfunghk\\Luckfbconnect\\": "src"
+        }
+    }
+}
